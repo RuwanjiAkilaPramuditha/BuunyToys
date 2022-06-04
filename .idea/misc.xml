@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BuunyToys/app/src/main/res/drawable/button_background.xml" value="0.131" />
+        <entry key="..\:/BuunyToys/app/src/main/res/drawable/ic_cart.xml" value="0.1" />
+        <entry key="..\:/BuunyToys/app/src/main/res/drawable/ic_notification.xml" value="0.156" />
+        <entry key="..\:/BuunyToys/app/src/main/res/drawable/ic_notification_back.xml" value="0.156" />
+        <entry key="..\:/BuunyToys/app/src/main/res/drawable/menu.xml" value="0.1" />
+        <entry key="..\:/BuunyToys/app/src/main/res/layout/activity_add_product.xml" value="0.10666666666666667" />
+        <entry key="..\:/BuunyToys/app/src/main/res/layout/activity_cart.xml" value="0.1" />
+        <entry key="..\:/BuunyToys/app/src/main/res/layout/activity_category.xml" value="0.209375" />
+        <entry key="..\:/BuunyToys/app/src/main/res/layout/activity_login.xml" value="0.18" />
+        <entry key="..\:/BuunyToys/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/BuunyToys/app/src/main/res/layout/activity_notification.xml" value="0.18" />
+        <entry key="..\:/BuunyToys/app/src/main/res/layout/activity_register.xml" value="0.209375" />
+        <entry key="..\:/BuunyToys/app/src/main/res/layout/activity_results.xml" value="0.1953125" />
+        <entry key="..\:/BuunyToys/app/src/main/res/layout/activity_splash_screen.xml" value="0.1" />
+        <entry key="..\:/BuunyToys/app/src/main/res/layout/activity_view_product.xml" value="0.1025390625" />
+        <entry key="..\:/BuunyToys/app/src/main/res/layout/product_cart.xml" value="0.209375" />
+        <entry key="..\:/BuunyToys/app/src/main/res/layout/product_layout.xml" value="0.20833333333333334" />
+        <entry key="..\:/BuunyToys/app/src/main/res/layout/tool_bar.xml" value="0.209375" />
+        <entry key="..\:/BuunyToys/app/src/main/res/menu/root_menu.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

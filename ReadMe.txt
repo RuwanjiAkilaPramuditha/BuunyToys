@@ -1,0 +1,1 @@
+This Application is developed for the soft toys shop. It include splash screen, register screen,loging screen, dashboard, add product screen,cart screen. It connect firebase and it also work with SQLite when user were in the offline mode. 
